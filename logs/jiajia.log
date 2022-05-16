@@ -1,3 +1,81 @@
 INFO 2022-05-15 13:22:41,075 autoreload 677 Watching for file changes with StatReloader
 INFO 2022-05-15 13:22:45,757 basehttp 187 "GET / HTTP/1.1" 200 10697
 INFO 2022-05-15 13:24:03,518 basehttp 187 "GET / HTTP/1.1" 200 10697
+ERROR 2022-05-15 13:41:23,436 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:23,442 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:23,446 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:23,453 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:25,072 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2022-05-15 13:41:25,074 basehttp 187 code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01¨¹\x03\x03n\x83]')
+ERROR 2022-05-15 13:41:25,077 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:25,078 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:25,081 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2022-05-15 13:41:31,410 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:41:34,858 basehttp 187 code 400, message Bad request syntax ('\x16\x03\x01\x02\x00\x01\x00\x01¨¹\x03\x03¡À')
+ERROR 2022-05-15 13:41:34,863 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:34,863 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+INFO 2022-05-15 13:41:34,866 basehttp 187 code 400, message Bad request version ('¨¤]¨ª\x91')
+ERROR 2022-05-15 13:41:34,866 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:41:34,867 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:25,599 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:25,604 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:25,616 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:25,619 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:33,821 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:33,824 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:33,828 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:42:33,839 basehttp 167 You're accessing the development server over HTTPS, but it only supports HTTP.
+
+ERROR 2022-05-15 13:43:30,860 exception 124 Invalid HTTP_HOST header: 'www.jiajia.site:8000'. You may need to add 'www.jiajia.site' to ALLOWED_HOSTS.
+WARNING 2022-05-15 13:43:30,903 log 241 Bad Request: /
+WARNING 2022-05-15 13:43:30,906 basehttp 187 "GET / HTTP/1.1" 400 72765
+ERROR 2022-05-15 13:43:31,485 exception 124 Invalid HTTP_HOST header: 'www.jiajia.site:8000'. You may need to add 'www.jiajia.site' to ALLOWED_HOSTS.
+WARNING 2022-05-15 13:43:31,513 log 241 Bad Request: /favicon.ico
+WARNING 2022-05-15 13:43:31,515 basehttp 187 "GET /favicon.ico HTTP/1.1" 400 72824
+INFO 2022-05-15 13:44:00,353 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-15 13:44:01,290 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:44:01,665 basehttp 187 "GET / HTTP/1.1" 200 10697
+INFO 2022-05-15 13:44:01,845 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2022-05-15 13:44:01,975 basehttp 187 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2022-05-15 13:44:01,977 basehttp 187 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2022-05-15 13:44:01,978 basehttp 187 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+WARNING 2022-05-15 13:44:01,990 log 241 Not Found: /favicon.ico
+WARNING 2022-05-15 13:44:01,991 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2129
+INFO 2022-05-15 13:47:49,312 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:48:07,363 basehttp 187 "GET / HTTP/1.1" 200 10697
+WARNING 2022-05-15 13:48:07,905 log 241 Not Found: /favicon.ico
+WARNING 2022-05-15 13:48:07,907 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2129
+INFO 2022-05-15 13:52:41,448 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-15 13:52:42,602 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:53:18,175 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-15 13:53:19,010 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:56:24,867 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:56:31,031 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:57:02,478 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-15 13:57:06,554 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 14:34:19,156 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 14:34:52,037 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 14:35:43,426 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 14:36:42,489 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\models.py changed, reloading.
+INFO 2022-05-16 14:36:43,372 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 14:38:13,783 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\models.py changed, reloading.
+INFO 2022-05-16 14:38:14,715 autoreload 677 Watching for file changes with StatReloader
