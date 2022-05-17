@@ -79,3 +79,290 @@ INFO 2022-05-16 14:36:42,489 autoreload 266 C:\Users\24494\PycharmProjects\JiaJi
 INFO 2022-05-16 14:36:43,372 autoreload 677 Watching for file changes with StatReloader
 INFO 2022-05-16 14:38:13,783 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\models.py changed, reloading.
 INFO 2022-05-16 14:38:14,715 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:48:47,234 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:49:15,308 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:49:25,596 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:49:35,708 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:49:51,728 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:51:03,571 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\models.py changed, reloading.
+INFO 2022-05-16 17:51:04,306 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:51:36,219 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-16 17:51:40,136 log 241 Not Found: /username/hjx/count/
+WARNING 2022-05-16 17:51:40,136 basehttp 187 "GET /username/hjx/count/ HTTP/1.1" 404 2257
+WARNING 2022-05-16 17:52:03,280 log 241 Not Found: /usernames/hjx/count/
+WARNING 2022-05-16 17:52:03,281 basehttp 187 "GET /usernames/hjx/count/ HTTP/1.1" 404 2325
+INFO 2022-05-16 17:53:11,596 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-16 17:53:13,942 log 241 Not Found: /usernames/hjx/count/
+WARNING 2022-05-16 17:53:13,943 basehttp 187 "GET /usernames/hjx/count/ HTTP/1.1" 404 2325
+INFO 2022-05-16 17:53:34,428 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-16 17:53:35,451 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:53:40,524 basehttp 187 "GET /usernames/hjx/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 17:55:32,512 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-16 17:55:33,460 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:58:09,729 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-16 17:58:10,724 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:58:49,015 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-16 17:58:49,942 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:59:10,506 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-16 17:59:11,472 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:59:32,757 basehttp 187 "GET /usernames/hjx/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 17:59:37,768 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:59:52,056 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 17:59:54,272 basehttp 187 "GET /usernames/hjx/count/ HTTP/1.1" 200 47
+INFO 2022-05-16 18:02:07,501 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-16 18:02:08,606 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:04:07,259 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-16 18:04:08,396 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:05:30,591 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-16 18:05:31,526 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:05:48,080 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-16 18:05:49,157 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:06:05,629 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-16 18:06:06,497 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:06:15,609 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-16 18:06:16,511 log 241 Not Found: /usernames/hjx/count/
+WARNING 2022-05-16 18:06:16,512 basehttp 187 "GET /usernames/hjx/count/ HTTP/1.1" 404 2335
+INFO 2022-05-16 18:06:33,976 basehttp 187 "GET /usernames/hjx111/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 18:21:16,953 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:21:17,939 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:21:29,747 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:21:30,736 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:21:48,263 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:21:49,235 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:21:58,430 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:21:59,380 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:22:32,699 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:22:33,719 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:23:02,645 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:25:32,751 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:27:17,136 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-16 18:28:02,216 log 241 Not Found: /carts/simple/
+WARNING 2022-05-16 18:28:02,217 basehttp 187 "GET /carts/simple/ HTTP/1.1" 404 2320
+WARNING 2022-05-16 18:28:06,157 log 241 Not Found: /image_codes/7413637f-39a6-4a1b-9d0e-ec285b55fcdd/
+WARNING 2022-05-16 18:28:06,157 basehttp 187 "GET /image_codes/7413637f-39a6-4a1b-9d0e-ec285b55fcdd/ HTTP/1.1" 404 2428
+INFO 2022-05-16 18:28:39,794 basehttp 187 "GET /usernames/sdgdsg22/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 18:28:48,490 basehttp 187 "GET /usernames/feawr222/count/ HTTP/1.1" 200 42
+WARNING 2022-05-16 18:28:51,820 log 241 Not Found: /image_codes/bd768e46-12fa-4e8b-84e4-3482217eed4a/
+WARNING 2022-05-16 18:28:51,821 basehttp 187 "GET /image_codes/bd768e46-12fa-4e8b-84e4-3482217eed4a/ HTTP/1.1" 404 2428
+INFO 2022-05-16 18:28:54,580 basehttp 187 "GET /usernames/dsfese111/count/ HTTP/1.1" 200 42
+WARNING 2022-05-16 18:29:02,315 log 241 Not Found: /image_codes/fa56d01a-0b3c-4f7f-a1aa-243077c932d6/
+WARNING 2022-05-16 18:29:02,316 basehttp 187 "GET /image_codes/fa56d01a-0b3c-4f7f-a1aa-243077c932d6/ HTTP/1.1" 404 2428
+INFO 2022-05-16 18:29:05,481 basehttp 187 "GET /usernames/sdfgdsaf11/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 18:35:10,113 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\JiaJiamarket_django\settings.py changed, reloading.
+INFO 2022-05-16 18:35:11,063 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:35:17,969 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-16 18:35:22,926 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-16 18:35:38,755 log 241 Not Found: /carts/simple/
+WARNING 2022-05-16 18:35:38,755 basehttp 187 "GET /carts/simple/ HTTP/1.1" 404 2320
+WARNING 2022-05-16 18:35:40,174 log 241 Not Found: /image_codes/460c0494-c9d5-4c2b-a07f-5d78cb98b621/
+WARNING 2022-05-16 18:35:40,175 basehttp 187 "GET /image_codes/460c0494-c9d5-4c2b-a07f-5d78cb98b621/ HTTP/1.1" 404 2428
+INFO 2022-05-16 18:35:44,088 basehttp 187 "GET /usernames/sdgfew22/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 18:35:46,613 basehttp 187 "GET /usernames/sdgfew22/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 18:35:50,523 basehttp 187 "GET /usernames/sdgfew22/count/ HTTP/1.1" 200 42
+WARNING 2022-05-16 18:35:50,918 log 241 Not Found: /favicon.ico
+WARNING 2022-05-16 18:35:50,919 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2314
+INFO 2022-05-16 18:35:53,953 basehttp 187 "GET /usernames/sdgfew22/count/ HTTP/1.1" 200 42
+INFO 2022-05-16 18:36:05,667 basehttp 187 "GET /usernames/sdgfew22/count/ HTTP/1.1" 200 42
+INFO 2022-05-17 14:22:16,534 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-17 14:22:27,853 log 241 Not Found: /
+WARNING 2022-05-17 14:22:27,854 basehttp 187 "GET / HTTP/1.1" 404 2440
+WARNING 2022-05-17 14:22:28,514 log 241 Not Found: /favicon.ico
+WARNING 2022-05-17 14:22:28,515 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2491
+WARNING 2022-05-17 14:24:11,381 log 241 Not Found: /
+WARNING 2022-05-17 14:24:11,382 basehttp 187 "GET / HTTP/1.1" 404 2446
+WARNING 2022-05-17 14:24:11,938 log 241 Not Found: /favicon.ico
+WARNING 2022-05-17 14:24:11,939 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2497
+WARNING 2022-05-17 14:24:24,620 log 241 Not Found: /image_codes/4e3ec2ce-07bf-4dda-bcb3-884226b35d32/
+WARNING 2022-05-17 14:24:24,621 basehttp 187 "GET /image_codes/4e3ec2ce-07bf-4dda-bcb3-884226b35d32/ HTTP/1.1" 404 2611
+WARNING 2022-05-17 14:24:33,447 log 241 Not Found: /image_codes/ce48dc99-2f91-4651-81af-16994fe1021c/
+WARNING 2022-05-17 14:24:33,448 basehttp 187 "GET /image_codes/ce48dc99-2f91-4651-81af-16994fe1021c/ HTTP/1.1" 404 2611
+WARNING 2022-05-17 14:25:23,087 log 241 Not Found: /image_codes/7031b1d0-bb44-4f5a-9c8e-5a22eafdd06d/
+WARNING 2022-05-17 14:25:23,088 basehttp 187 "GET /image_codes/7031b1d0-bb44-4f5a-9c8e-5a22eafdd06d/ HTTP/1.1" 404 2611
+WARNING 2022-05-17 14:25:24,362 log 241 Not Found: /carts/simple/
+WARNING 2022-05-17 14:25:24,363 basehttp 187 "GET /carts/simple/ HTTP/1.1" 404 2503
+WARNING 2022-05-17 14:25:25,194 log 241 Not Found: /image_codes/25122d70-f869-4334-958a-44c033b13667/
+WARNING 2022-05-17 14:25:25,195 basehttp 187 "GET /image_codes/25122d70-f869-4334-958a-44c033b13667/ HTTP/1.1" 404 2611
+INFO 2022-05-17 14:25:27,987 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 42
+INFO 2022-05-17 14:25:42,961 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 42
+INFO 2022-05-17 14:25:47,147 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 42
+WARNING 2022-05-17 14:25:48,884 log 241 Not Found: /image_codes/6348fa17-4bb7-4488-a871-ac70168420c2/
+WARNING 2022-05-17 14:25:48,885 basehttp 187 "GET /image_codes/6348fa17-4bb7-4488-a871-ac70168420c2/ HTTP/1.1" 404 2611
+INFO 2022-05-17 14:26:03,542 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 42
+INFO 2022-05-17 14:29:52,147 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 42
+INFO 2022-05-17 14:32:53,283 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:32:54,368 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:43:49,199 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:43:50,061 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:44:35,379 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:44:36,389 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:45:21,807 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:45:22,731 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:47:10,430 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:47:11,460 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:47:33,959 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:47:34,883 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:47:44,779 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:47:45,749 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:48:06,221 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:48:07,122 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:48:16,130 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:48:17,087 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:49:57,866 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:49:58,772 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:50:03,989 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:50:04,892 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:50:09,711 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:50:10,765 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:50:16,813 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:50:17,710 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:50:52,680 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:50:53,515 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:52:03,879 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:52:04,762 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:52:10,661 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:52:11,651 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:52:19,635 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:52:20,661 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:52:37,138 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:52:38,127 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:53:13,155 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:53:14,184 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:53:43,379 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:53:44,399 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:57:40,078 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\urls.py changed, reloading.
+INFO 2022-05-17 14:57:41,071 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:57:53,177 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:57:54,172 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:58:03,135 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:58:04,036 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:58:12,997 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:58:13,887 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:58:19,641 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:58:20,654 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:58:58,798 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:58:59,677 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:59:19,957 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:59:21,044 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:59:26,902 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:59:27,828 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 14:59:50,402 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 14:59:51,447 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:00:09,957 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:00:10,919 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:00:14,669 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:00:15,734 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:00:33,147 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:00:34,053 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:01:02,977 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:01:03,928 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:01:47,661 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:01:48,687 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:02:25,543 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:02:26,531 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:03:00,515 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:03:01,459 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:07:55,450 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:07:56,493 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:15:58,674 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:16:03,139 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:16:13,854 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:16:25,034 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 39
+WARNING 2022-05-17 15:16:25,039 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:16:25,040 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+INFO 2022-05-17 15:16:26,449 basehttp 187 "OPTIONS /register/ HTTP/1.1" 200 0
+WARNING 2022-05-17 15:16:26,451 log 241 Not Found: /mobiles/13576154277/count/
+INFO 2022-05-17 15:16:26,452 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 39
+WARNING 2022-05-17 15:16:26,454 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+WARNING 2022-05-17 15:16:26,458 log 241 Forbidden (Origin checking failed - http://www.meiduo.site:8080 does not match any trusted origins.): /register/
+WARNING 2022-05-17 15:16:26,458 basehttp 187 "POST /register/ HTTP/1.1" 403 2575
+INFO 2022-05-17 15:18:27,481 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:18:30,454 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 39
+WARNING 2022-05-17 15:18:30,461 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:18:30,462 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+ERROR 2022-05-17 15:18:30,490 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py", line 40, in register
+    elif user.objects.filter(username=username).count():
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 186, in __get__
+    raise AttributeError(
+AttributeError: Manager isn't accessible via User instances
+ERROR 2022-05-17 15:18:30,493 basehttp 187 "POST /register/ HTTP/1.1" 500 74975
+INFO 2022-05-17 15:22:58,269 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-17 15:23:02,004 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py", line 40, in register
+    elif user.objects.filter(username=username).count():
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 186, in __get__
+    raise AttributeError(
+AttributeError: Manager isn't accessible via User instances
+ERROR 2022-05-17 15:23:02,007 basehttp 187 "POST /register/ HTTP/1.1" 500 74403
+INFO 2022-05-17 15:24:09,239 basehttp 187 "POST /register/ HTTP/1.1" 200 43
+ERROR 2022-05-17 15:24:15,768 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py", line 40, in register
+    elif user.objects.filter(username=username).count():
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 186, in __get__
+    raise AttributeError(
+AttributeError: Manager isn't accessible via User instances
+ERROR 2022-05-17 15:24:15,770 basehttp 187 "POST /register/ HTTP/1.1" 500 74403
+INFO 2022-05-17 15:26:36,753 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:26:40,036 basehttp 187 "POST /register/ HTTP/1.1" 200 46
+INFO 2022-05-17 15:27:16,015 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:27:18,764 basehttp 187 "POST /register/ HTTP/1.1" 200 27
+INFO 2022-05-17 15:29:13,070 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:29:14,153 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:29:26,001 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:31:05,057 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-17 15:31:06,018 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:31:19,771 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:32:53,331 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:32:56,953 basehttp 187 "POST /register/ HTTP/1.1" 200 48
+INFO 2022-05-17 15:33:32,164 basehttp 187 "POST /register/ HTTP/1.1" 200 27
+INFO 2022-05-17 15:33:52,738 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 59
+WARNING 2022-05-17 15:33:54,905 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:33:54,906 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+WARNING 2022-05-17 15:33:57,054 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:33:57,055 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+WARNING 2022-05-17 15:34:03,226 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:34:03,227 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+WARNING 2022-05-17 15:34:06,094 log 241 Not Found: /image_codes/795ecc85-3896-4b10-9d00-18787f5467c7/
+WARNING 2022-05-17 15:34:06,095 basehttp 187 "GET /image_codes/795ecc85-3896-4b10-9d00-18787f5467c7/ HTTP/1.1" 404 2767
+WARNING 2022-05-17 15:34:10,130 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:34:10,132 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+INFO 2022-05-17 15:35:09,187 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-17 15:35:11,993 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:35:11,994 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+WARNING 2022-05-17 15:35:14,214 log 241 Not Found: /image_codes/21b11d98-4e66-4fde-9952-3370f7fcbb8d/
+WARNING 2022-05-17 15:35:14,215 basehttp 187 "GET /image_codes/21b11d98-4e66-4fde-9952-3370f7fcbb8d/ HTTP/1.1" 404 2767
+WARNING 2022-05-17 15:35:18,185 log 241 Not Found: /mobiles/13333333333/count/
+WARNING 2022-05-17 15:35:18,186 basehttp 187 "GET /mobiles/13333333333/count/ HTTP/1.1" 404 2698
+WARNING 2022-05-17 15:35:22,140 log 241 Not Found: /image_codes/2d6bbc77-2b86-42dd-877f-7f2c4bbdc2b4/
+WARNING 2022-05-17 15:35:22,141 basehttp 187 "GET /image_codes/2d6bbc77-2b86-42dd-877f-7f2c4bbdc2b4/ HTTP/1.1" 404 2767
+WARNING 2022-05-17 15:35:27,034 log 241 Not Found: /mobiles/13576154277/count/
+WARNING 2022-05-17 15:35:27,036 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 404 2698
+INFO 2022-05-17 15:36:23,290 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-05-17 15:36:25,789 log 241 Not Found: /image_codes/1f58420a-54c6-4e33-a1a0-14ac922bebb1/
+WARNING 2022-05-17 15:36:25,791 basehttp 187 "GET /image_codes/1f58420a-54c6-4e33-a1a0-14ac922bebb1/ HTTP/1.1" 404 2767
+INFO 2022-05-17 15:36:30,686 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 59
+INFO 2022-05-17 15:36:33,645 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 59
+INFO 2022-05-17 15:40:04,922 basehttp 187 "GET /usernames/skxmxm_02/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:40:15,035 basehttp 187 "GET /mobiles/13333333334/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:40:59,679 basehttp 187 "GET /usernames/skxmxm_02/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:40:59,685 basehttp 187 "GET /mobiles/13333333334/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:41:00,708 basehttp 187 "GET /usernames/skxmxm_02/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:41:00,711 basehttp 187 "GET /mobiles/13333333334/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:41:00,936 basehttp 187 "POST /register/ HTTP/1.1" 200 27
+WARNING 2022-05-17 15:41:01,387 log 241 Not Found: /carts/simple/
+WARNING 2022-05-17 15:41:01,388 basehttp 187 "GET /carts/simple/ HTTP/1.1" 404 2659
