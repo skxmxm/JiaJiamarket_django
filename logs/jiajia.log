@@ -366,3 +366,543 @@ INFO 2022-05-17 15:41:00,711 basehttp 187 "GET /mobiles/13333333334/count/ HTTP/
 INFO 2022-05-17 15:41:00,936 basehttp 187 "POST /register/ HTTP/1.1" 200 27
 WARNING 2022-05-17 15:41:01,387 log 241 Not Found: /carts/simple/
 WARNING 2022-05-17 15:41:01,388 basehttp 187 "GET /carts/simple/ HTTP/1.1" 404 2659
+INFO 2022-05-17 15:55:26,159 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:55:36,707 basehttp 187 "GET /usernames/skxmxm_04/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:55:36,709 basehttp 187 "GET /mobiles/13333333335/count/ HTTP/1.1" 200 39
+ERROR 2022-05-17 15:55:36,986 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py", line 55, in post
+    login(request, user)
+TypeError: login() takes 1 positional argument but 2 were given
+ERROR 2022-05-17 15:55:36,990 basehttp 187 "POST /register/ HTTP/1.1" 500 79872
+INFO 2022-05-17 15:55:38,846 basehttp 187 "POST /register/ HTTP/1.1" 200 43
+INFO 2022-05-17 15:55:38,847 basehttp 187 "GET /usernames/skxmxm_04/count/ HTTP/1.1" 200 59
+INFO 2022-05-17 15:55:38,848 basehttp 187 "GET /mobiles/13333333335/count/ HTTP/1.1" 200 59
+INFO 2022-05-17 15:55:49,211 basehttp 187 "GET /usernames/skxmxm_05/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:56:07,100 basehttp 187 "GET /mobiles/13333333336/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:56:07,904 basehttp 187 "GET /mobiles/13333333336/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:56:07,905 basehttp 187 "GET /usernames/skxmxm_05/count/ HTTP/1.1" 200 39
+ERROR 2022-05-17 15:56:08,170 log 241 Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py", line 55, in post
+    login(request, user)
+TypeError: login() takes 1 positional argument but 2 were given
+ERROR 2022-05-17 15:56:08,174 basehttp 187 "POST /register/ HTTP/1.1" 500 79872
+WARNING 2022-05-17 15:56:29,752 log 241 Not Found: /image_codes/d2319414-f7d1-4600-bfe0-ca953de5187f/
+WARNING 2022-05-17 15:56:29,753 basehttp 187 "GET /image_codes/d2319414-f7d1-4600-bfe0-ca953de5187f/ HTTP/1.1" 404 2767
+INFO 2022-05-17 15:56:58,529 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-17 15:57:03,130 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:57:56,493 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:58:00,930 basehttp 187 "GET /usernames/skxmxm/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:58:00,931 basehttp 187 "GET /mobiles/13576154277/count/ HTTP/1.1" 200 39
+INFO 2022-05-17 15:58:01,171 basehttp 187 "POST /register/ HTTP/1.1" 200 27
+WARNING 2022-05-17 15:58:01,593 log 241 Not Found: /carts/simple/
+WARNING 2022-05-17 15:58:01,594 basehttp 187 "GET /carts/simple/ HTTP/1.1" 404 2659
+INFO 2022-05-18 13:56:56,991 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:18:09,448 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:18:41,935 log 241 Internal Server Error: /image_codes/1234/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:18:41,940 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 500 102698
+WARNING 2022-05-18 14:18:42,525 log 241 Not Found: /favicon.ico
+WARNING 2022-05-18 14:18:42,526 basehttp 187 "GET /favicon.ico HTTP/1.1" 404 2819
+ERROR 2022-05-18 14:19:02,405 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:19:02,409 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 102683
+INFO 2022-05-18 14:21:35,918 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:21:36,765 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:21:36,771 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 102850
+ERROR 2022-05-18 14:21:56,117 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:21:56,122 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 102849
+INFO 2022-05-18 14:22:50,663 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:22:53,143 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:22:53,148 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 102869
+INFO 2022-05-18 14:23:36,889 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py changed, reloading.
+INFO 2022-05-18 14:23:37,766 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:24:31,808 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:24:35,461 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:24:35,466 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 102871
+ERROR 2022-05-18 14:24:46,476 log 241 Internal Server Error: /image_codes/1234/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, image = captcha.generate_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 215, in generate_captcha
+    return self.captcha("")
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 204, in captcha
+    image = self.text(image, self.fonts, drawings=['warp', 'rotate', 'offset'])
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 147, in text
+    mask = char_image.convert('L').point(lambda i: i * 1.97)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 1723, in point
+    return self._new(self.im.point(lut, mode))
+TypeError: 'float' object cannot be interpreted as an integer
+ERROR 2022-05-18 14:24:46,480 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 500 102750
+INFO 2022-05-18 14:28:00,822 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:28:02,795 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 200 3
+INFO 2022-05-18 14:28:28,987 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py changed, reloading.
+INFO 2022-05-18 14:28:29,997 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:31:26,435 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py changed, reloading.
+INFO 2022-05-18 14:31:27,472 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:31:39,500 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py changed, reloading.
+INFO 2022-05-18 14:31:40,454 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:33:01,382 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py changed, reloading.
+INFO 2022-05-18 14:33:02,593 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:45:04,711 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:45:07,522 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 200 28800
+INFO 2022-05-18 14:45:25,603 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:46:09,854 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 200 28800
+INFO 2022-05-18 14:46:37,259 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:46:39,542 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 200 28800
+INFO 2022-05-18 14:47:21,785 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:47:23,745 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 200 28800
+INFO 2022-05-18 14:48:20,144 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:48:21,913 log 241 Internal Server Error: /image_codes/1234/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 2278, in save
+    format = EXTENSION[ext]
+KeyError: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 14, in get_captcha
+    img.save('./image')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 2280, in save
+    raise ValueError(f"unknown file extension: {ext}") from e
+ValueError: unknown file extension: 
+ERROR 2022-05-18 14:48:21,919 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 500 93494
+INFO 2022-05-18 14:49:09,397 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py changed, reloading.
+INFO 2022-05-18 14:49:10,268 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:49:30,747 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:49:33,367 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 200 28800
+INFO 2022-05-18 14:50:31,022 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:50:33,541 log 241 Internal Server Error: /image_codes/1234/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 455, in _getencoder
+    encoder = getattr(core, encoder_name + "_encoder")
+AttributeError: module 'PIL._imaging' has no attribute 'utf8_encoder'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('utf8')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 457, in _getencoder
+    raise OSError(f"encoder {encoder_name} not available") from e
+OSError: encoder utf8 not available
+ERROR 2022-05-18 14:50:33,546 basehttp 187 "GET /image_codes/1234/ HTTP/1.1" 500 95786
+INFO 2022-05-18 14:51:34,957 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:51:43,029 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:51:45,556 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('jpeg')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 458, in _getencoder
+    return encoder(mode, *args + extra)
+TypeError: function takes at least 2 arguments (1 given)
+ERROR 2022-05-18 14:51:45,563 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 91645
+INFO 2022-05-18 14:56:39,420 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:56:41,316 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('jpeg', [])
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 458, in _getencoder
+    return encoder(mode, *args + extra)
+TypeError: argument 2 must be str, not list
+ERROR 2022-05-18 14:56:41,321 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 91607
+INFO 2022-05-18 14:56:51,787 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:56:53,598 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('jpeg', '')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 458, in _getencoder
+    return encoder(mode, *args + extra)
+ValueError: No packer found from RGB to 
+ERROR 2022-05-18 14:56:53,605 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 91637
+INFO 2022-05-18 14:57:10,021 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:57:12,106 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 895
+INFO 2022-05-18 14:57:53,952 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 14:57:55,917 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 455, in _getencoder
+    encoder = getattr(core, encoder_name + "_encoder")
+AttributeError: module 'PIL._imaging' has no attribute 'png_encoder'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('png', 'RGB')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 457, in _getencoder
+    raise OSError(f"encoder {encoder_name} not available") from e
+OSError: encoder png not available
+ERROR 2022-05-18 14:57:55,922 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 95840
+INFO 2022-05-18 14:58:53,552 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 14:58:56,934 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 846
+INFO 2022-05-18 15:00:39,432 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 15:00:39,875 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 455, in _getencoder
+    encoder = getattr(core, encoder_name + "_encoder")
+AttributeError: module 'PIL._imaging' has no attribute 'png_encoder'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('png', '')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 457, in _getencoder
+    raise OSError(f"encoder {encoder_name} not available") from e
+OSError: encoder png not available
+ERROR 2022-05-18 15:00:39,882 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 95825
+INFO 2022-05-18 15:00:55,861 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:01:05,538 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 1103
+INFO 2022-05-18 15:01:51,036 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 15:01:52,828 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    return cap_str, img.tobytes('jpeg', 'CMYK')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 768, in tobytes
+    e = _getencoder(self.mode, encoder_name, args)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 458, in _getencoder
+    return encoder(mode, *args + extra)
+ValueError: No packer found from RGB to CMYK
+ERROR 2022-05-18 15:01:52,834 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 91668
+INFO 2022-05-18 15:02:05,672 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:02:13,941 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:02:14,221 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 890
+INFO 2022-05-18 15:02:15,795 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 891
+INFO 2022-05-18 15:04:01,687 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py changed, reloading.
+INFO 2022-05-18 15:04:02,743 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:06:50,939 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 15:06:54,146 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 11, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 16, in get_captcha
+    img_b = base64.b64encode(img)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\base64.py", line 58, in b64encode
+    encoded = binascii.b2a_base64(s, newline=False)
+TypeError: a bytes-like object is required, not 'Image'
+ERROR 2022-05-18 15:06:54,150 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 87868
+INFO 2022-05-18 15:07:33,242 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:07:34,917 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 38400
+INFO 2022-05-18 15:08:06,647 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py changed, reloading.
+INFO 2022-05-18 15:08:07,886 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:14:43,667 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py changed, reloading.
+INFO 2022-05-18 15:14:44,665 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:16:26,598 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:16:49,665 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 15:16:51,895 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 2278, in save
+    format = EXTENSION[ext]
+KeyError: ''
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 10, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 15, in get_captcha
+    img.save(cap_str+'jpg')
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\PIL\Image.py", line 2280, in save
+    raise ValueError(f"unknown file extension: {ext}") from e
+ValueError: unknown file extension: 
+ERROR 2022-05-18 15:16:51,900 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 94039
+INFO 2022-05-18 15:17:27,355 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 15:17:29,233 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 10, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 16, in get_captcha
+    with open('./' + cap_str + 'jpg', 'rb') as file:
+FileNotFoundError: [Errno 2] No such file or directory: './0hjo2jpg'
+ERROR 2022-05-18 15:17:29,237 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 84493
+INFO 2022-05-18 15:18:49,995 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-05-18 15:18:51,875 log 241 Internal Server Error: /image_codes/123/
+Traceback (most recent call last):
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\24494\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\verifications\views.py", line 10, in get
+    text, img = get_captcha()
+  File "C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py", line 16, in get_captcha
+    with open('./libs/captcha/image/' + cap_str + '.jpg', 'rb') as file:
+FileNotFoundError: [Errno 2] No such file or directory: './libs/captcha/image/qjz26.jpg'
+ERROR 2022-05-18 15:18:51,879 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 500 84613
+INFO 2022-05-18 15:19:44,054 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:19:45,970 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 2542
+INFO 2022-05-18 15:21:15,433 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:21:16,519 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 2669
+INFO 2022-05-18 15:21:25,009 basehttp 187 "GET /image_codes/123/ HTTP/1.1" 200 2167
+INFO 2022-05-18 15:25:10,636 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\libs\captcha\captcha.py changed, reloading.
+INFO 2022-05-18 15:25:11,698 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:31:00,230 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-05-18 15:31:47,983 basehttp 187 "GET /image_codes/8ebf7d11-2cd6-4cf7-9f92-0650dc45b54d/ HTTP/1.1" 200 2935
+INFO 2022-05-18 15:32:01,038 basehttp 187 "GET /image_codes/025b916a-24f2-452e-b5cf-e83bd2e4f853/ HTTP/1.1" 200 2651
+INFO 2022-05-18 15:32:54,460 basehttp 187 "GET /image_codes/8f10c7d6-8949-4283-afd4-ff1518125375/ HTTP/1.1" 200 2570
+INFO 2022-05-18 15:32:58,817 basehttp 187 "GET /image_codes/6e766e0b-2dcc-4018-9d0b-1a7999b3dc6a/ HTTP/1.1" 200 2790
+INFO 2022-05-18 15:34:56,527 autoreload 266 C:\Users\24494\PycharmProjects\JiaJiamarket_django\apps\user\views.py changed, reloading.
+INFO 2022-05-18 15:34:57,455 autoreload 677 Watching for file changes with StatReloader

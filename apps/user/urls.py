@@ -7,5 +7,5 @@ register_converter(MobileConverter, 'mobile')
 urlpatterns = [
     path('usernames/<username:name>/count/', check_name),
     path('mobiles/<mobile:mobile>/count/', check_mobile),
-    path('register/', register),
+    path('register/', Register.as_view()),
 ]
